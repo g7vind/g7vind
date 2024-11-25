@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=590&lines=Welcome+!!!;Hi+I'm+Govind;A+passionate+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=590&lines=Welcome+!!!;Hi+I'm+Govind;MERN+Stack+developer)](https://git.io/typing-svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=g7vind&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
